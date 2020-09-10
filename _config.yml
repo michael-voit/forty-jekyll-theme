@@ -3,8 +3,8 @@ title: Wandelrakete
 subtitle: Projekte für den Wandel
 email: michael@digitalfellows.eu
 description: Die Wandelrakete ist eine Initiative von Antonia und Michael Voit, um über verschiedene Projekte daran mitzuwirken, den Wandel zu gestalten.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: https://www.wandel-rakete.org # the base hostname & protocol for your site
 author: Michael Voit
 street_address: 1234 Somewhere Road
 city: Nashville
