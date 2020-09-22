@@ -14,4 +14,4 @@ Was sich für uns nach der goldenen Mitte anfühlt – und sich auch als für un
 
 Spaß machen wie das gemeinsame Entwickeln, Aufbauen und mit Leben füllen von Projekten wie Repair Cafés, Food Coops, offenen Werkstätten oder Solidarischen Landwirtschaften.
 
-Und darum versuchen wir, genau solche Projekte zu unterstützen oder von Grund auf neu aufzubauen. Denn damit verbinden wir Spaß, Freizeit, Vernetzung in unserer Gemeinde, an einer guten Zukunft bauen und für uns immer bessere Möglichkeiten zu schaffen, damit das Dranbleiben immer einfacher wird.
+Und darum versuchen wir, genau solche Projekte zu unterstützen oder von Grund auf neu aufzubauen. Denn damit verbinden wir Spaß, Freizeit, Vernetzung in unserer Gemeinde, an einer guten Zukunft bauen und für uns immer bessere Möglichkeiten zu schaffen, mit denen das Dranbleiben immer einfacher wird.
